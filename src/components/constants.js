@@ -1,4 +1,4 @@
-const characters = {
+export const characters = {
     ROOK: 'rook',
     KNIGHT: 'knight',
     BISHOP: 'bishop',

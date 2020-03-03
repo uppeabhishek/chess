@@ -21,6 +21,7 @@ export default function Cell({indexes, value, isWhite}) {
             {value && <img width={50}
                            style={{cursor: 'pointer'}}
                            height={50}
+                           alt={'chess'}
                            src={process.env.PUBLIC_URL + '/assets/' + value + '.svg'}/>}
         </div>
     );

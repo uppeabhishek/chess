@@ -6,7 +6,7 @@ import Board from "./components/Board";
 
 function App() {
     return (
-        <div className="App">
+        <div className="App h-100">
             <DndProvider backend={Backend}>
                 <Board/>
             </DndProvider>

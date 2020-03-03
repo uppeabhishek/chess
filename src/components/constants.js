@@ -1,7 +1,7 @@
 const characters = {
     ROOK: 'rook',
     KNIGHT: 'knight',
-    BISHOP: 'BISHOP',
+    BISHOP: 'bishop',
     QUEEN: 'queen',
     KING: 'king',
     PAWN: 'pawn'
